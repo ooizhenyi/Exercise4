@@ -51,19 +51,7 @@ class MainActivity : AppCompatActivity() {
 
 
         }
-   /* fun calSaving():Int{
-        return when(Integer.valueOf(age2.getText().toString())){
-            in 16..20->5000
-            in 21..25->14000
-            in 26..30->29000
-            in 31..35->50000
-            in 36..40->78000
-            in 41..45->116000
-            in 46..50->165000
-            in 51..55->228000
-            else ->0
-        }
-    }*/
+
 
     fun calSaving(age2: TextView): Int {
             val calAge = (Integer.valueOf(age2.getText().toString()))
