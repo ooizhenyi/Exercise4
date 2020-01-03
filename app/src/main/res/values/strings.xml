@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Exercise4</string>
+    <string name="age">Age (years)</string>
+    <string name="minimum">Min. Basic Saving(RM)</string>
+    <string name="investment">Investment</string>
+    <string name="cal">Calculate</string>
+    <string name="rst">Reset</string>
+    <string name="dob">Date of Birth</string>
+    <string name="input">Enter your DOB</string>
+</resources>
